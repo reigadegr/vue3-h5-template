@@ -3,3 +3,4 @@ node_modules
 *bak
 pnpm-lock.yaml
 yarn.lock
+.idea

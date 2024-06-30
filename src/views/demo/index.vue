@@ -29,7 +29,7 @@ const contentList = reactive([
     <div class="pl-[12px] border-l-[3px] border-[color:#41b883]">
       <a
         class="flex items-center"
-        href="https://github.com/yulimchen/vue3-h5-template"
+        href="https://github.com/reigadegr/vue3-h5-template"
         target="_blank"
       >
         <svg-icon class="text-[20px] mr-[8px]" name="github" />
