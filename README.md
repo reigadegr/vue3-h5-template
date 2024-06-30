@@ -61,7 +61,7 @@
 
 ```shell
 # 克隆项目
-git clone -b js-version https://github.com/yulimchen/vue3-h5-template.git
+git clone -b js-version https://github.com/reigadegr/vue3-h5-template.git --depth 1
 
 # 进入项目目录
 cd vue3-h5-template
